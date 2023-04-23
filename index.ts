@@ -1,7 +1,7 @@
-import enUS from './en-US.json';
-import enGB from './en-GB.json';
+import zhCN from './zh-CN.json';
+import zhTW from './zh-TW.json';
 
 export default {
-  'en-US': enUS,
-  'en-GB': enGB
+  'zh-CN': zhCN,
+  'zh-TW': zhTW
 };
